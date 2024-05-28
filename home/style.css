@@ -9,7 +9,7 @@
   --navColor4: #236267;
   --navColor5: #2c8437;
 }
-html, body {margin: 0; height: 100%; overflow: hidden}
+html, body {margin: 0; height: 100%;}
 html {
   box-sizing: border-box;
 }
